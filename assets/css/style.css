@@ -271,8 +271,8 @@ header{
     font-weight: 600;
     line-height: 48px;
     color: var(--dark-color);
-    padding-top: 40px;
-    padding-bottom: 30px;
+    padding-top: 70px;
+    padding-bottom: 100px;
 }
 .service-offer{
     justify-content: space-between;
